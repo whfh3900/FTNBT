@@ -7,7 +7,7 @@
 <br>
 <br>
 
-## requirments
+## Requirments
 ``` cmd
 jupyter
 tensorflow-gpu == 2.10.0
